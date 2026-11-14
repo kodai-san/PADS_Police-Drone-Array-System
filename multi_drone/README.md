@@ -3,7 +3,7 @@
 ## Quick Start
 
 ```bash
-cd c:\Users\kodai\Documents\3yp\multi_drone
+cd multi_drone
 
 # 1. Install dependencies
 pip install -r requirements.txt
