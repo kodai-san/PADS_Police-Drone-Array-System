@@ -1,0 +1,34 @@
+# Final report materials
+final report/
+PADS_report*
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.wmv
+*.m4v
+*.flv
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (kept locally only)
+*.csv
+*.json
+*.xlsx
+*.xls
+*.zip
+*.mat
+*.geojson
